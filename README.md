@@ -4,6 +4,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tniita&theme=onedark)](https://github.com/tniita/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tniita&layout=compact&theme=onedark)](https://github.com/tniita/github-readme-stats)
+
 <!--
 **tniita/tniita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
